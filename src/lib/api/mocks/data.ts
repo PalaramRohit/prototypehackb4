@@ -126,8 +126,8 @@ export const mockServices: Service[] = [
 ];
 
 export const mockTeam: TeamMember[] = [
-  { id: 'team-01', name: 'Veerapaneni Yashwanth Kumar Chowdary', role: 'CEO', image: '/assets/team/yashwanth.webp' },
-  { id: 'team-02', name: 'Bitla Joshmitha', role: 'C.O.O', image: '/assets/team/joshmitha.webp' },
+  { id: 'team-01', name: 'Veerapaneni Yashwanth Kumar', role: 'CEO', image: '/assets/team/yashwanth.webp' },
+  { id: 'team-02', name: 'Bitla Josmitha', role: 'C.O.O', image: '/assets/team/joshmitha.webp' },
   { id: 'team-03', name: 'Telugu Rakesh', role: 'C.T.O', image: '/assets/team/rakesh.webp' },
   { id: 'team-04', name: 'Panuganti Mythri Sree', role: 'Resources Manager', image: '/assets/team/mythri.webp' },
 ];
